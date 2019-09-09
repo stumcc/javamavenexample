@@ -8,7 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        String Doggo = "Woofy";
+        //below we have our dog's name and age
+        String Doggo = "Woofasaurus";
         Integer OldBoy = 11;
         System.out.println( "This is admittedly not the most complicated program" );
         Dog myDog = new Dog(Doggo,OldBoy);
